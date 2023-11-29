@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.90e64c0f.css",
+    "main.js": "/react-resume/static/js/main.56c9db8c.js",
+    "static/media/vk.svg": "/react-resume/static/media/vk.5b47356045945fb4eb2f4a56e4157823.svg",
+    "static/media/skype.svg": "/react-resume/static/media/skype.4de088e12127ad66bba367581ec0d591.svg",
+    "static/media/instagram.svg": "/react-resume/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/github.svg": "/react-resume/static/media/github.e35c71752b296aa276f44b3be062ef25.svg",
+    "static/media/phone.svg": "/react-resume/static/media/phone.ba9c76a2c30607c26f18b1883477b5cc.svg",
+    "static/media/choose.svg": "/react-resume/static/media/choose.18519e409ba3b37d93d65e32a21cdb81.svg",
+    "static/media/email.svg": "/react-resume/static/media/email.5de6c8ce54076d69ff86a592398f7d4f.svg",
+    "static/media/telegram.svg": "/react-resume/static/media/telegram.7b32e0699fa280a656aa08186d1e6bd5.svg",
+    "index.html": "/react-resume/index.html",
+    "main.90e64c0f.css.map": "/react-resume/static/css/main.90e64c0f.css.map",
+    "main.56c9db8c.js.map": "/react-resume/static/js/main.56c9db8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e64c0f.css",
+    "static/js/main.56c9db8c.js"
+  ]
+}
